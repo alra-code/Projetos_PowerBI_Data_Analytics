@@ -16,9 +16,23 @@ Para usar um dos projetos deste repositório, siga estas etapas:
 
 Aqui estão os projetos disponíveis neste repositório:
 
-- Projeto 1: Análise de RH.
-- Projeto 2: Análise de Indicadores 
-- Projeto 2: Análise de Locação de Veiculos
+- Projeto 1: Curso de Dashboards no Power BI - Tetr4.
+  
+      ✍ Aula 1 - Dashboard de Vendas.
+      ✍ Aula 2 - Dashboard de logística.
+      ✍ Aula 3 - Dashboard de vendas / Mercado.
+      ✍ Aula 4 - Dashboard de Vendas / Produtos.
+  
+- Projeto 2: Imersão Power BI - Data Driven.
+  
+      ✍ Aula 1 - Case de Finanças.
+      ✍ Aula 2 - Case de Vendas.
+      ✍ Aula 2 - Case de Logística.
+  
+- Projeto 3: Desafio Power BI - Mulheres em Dados
+
+      ✍ Introdução a análise de dados (Dashboard Resumo Financeiro).
+      ✍ Análise de Dados aplicada (Dashboard Copa do Mundo Feminia).
 
 ## Contribuições 🤜🤛
 
