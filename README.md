@@ -35,6 +35,10 @@ Aqui estão os projetos disponíveis neste repositório:
       ✍ Introdução a análise de dados (Dashboard Resumo Financeiro).
       ✍ Análise de Dados aplicada (Dashboard Copa do Mundo Feminia).
 
+- Projeto 4: Curso de análise de dados com Python - PrograMaria
+
+      ✍ Análise de Diversidade 2022
+
 ## Contribuições 🤜🤛
 
 Sinta-se à vontade para contribuir com este repositório enviando pull requests com novos projetos ou melhorias nos projetos existentes.
