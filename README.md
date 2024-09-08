@@ -4,13 +4,14 @@ Este repositório contém projetos de Power BI que desenvolvi para fins de apren
 com informações detalhadas sobre o projeto, incluindo a descrição do conjunto de dados, as etapas do processo de modelagem de dados, as visualizações criadas e
 as principais conclusões.
 
-## Como usar 👩‍💻
+## Como Visualizar 👩‍💻
 
-Para usar um dos projetos deste repositório, siga estas etapas:
+Para visualizar um dos projetos deste repositório, siga estas etapas:
 
 1. Clone ou baixe o repositório em seu computador local.
-2. Abra o arquivo .pbix na pasta do projeto de seu interesse.
+2. Abra o arquivo .pbix da pasta do projeto de seu interesse.
 3. Explore as visualizações e interaja com os dados para obter insights.
+4. No Readme de cada projeto tem uma imagem estática do projeto.
 
 ## Projetos Disponíveis 😎
 
