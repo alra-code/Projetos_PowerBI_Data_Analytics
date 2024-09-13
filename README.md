@@ -28,7 +28,7 @@ Aqui estão os projetos disponíveis neste repositório:
   
       ✍ Aula 1 - Case de Finanças.
       ✍ Aula 2 - Case de Vendas.
-      ✍ Aula 2 - Case de Logística.
+      ✍ Aula 3 - Case de Logística.
   
 - Projeto 3: Desafio Power BI - Mulheres em Dados
 
@@ -38,6 +38,12 @@ Aqui estão os projetos disponíveis neste repositório:
 - Projeto 4: Curso de análise de dados com Python - PrograMaria
 
       ✍ Análise de Diversidade 2022
+  
+- Projeto 5: Imersão Acelerador de Carreira com Power BI - Empowerdata
+      ✍ Aula 1 - Gestão de Faturamento e Logística.
+      ✍ Aula 2 - Pesquisa de Satisfação dos Colaboradores.
+      ✍ Aula 3 - Acompanhamento de Vendas.
+     
 
 ## Contribuições 🤜🤛
 
