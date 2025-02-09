@@ -40,6 +40,7 @@ Aqui estão os projetos disponíveis neste repositório:
       ✍ Análise de Diversidade 2022
   
 - Projeto 5: Imersão Acelerador de Carreira com Power BI - Empowerdata
+  
       ✍ Aula 1 - Gestão de Faturamento e Logística.
       ✍ Aula 2 - Pesquisa de Satisfação dos Colaboradores.
       ✍ Aula 3 - Acompanhamento de Vendas.
